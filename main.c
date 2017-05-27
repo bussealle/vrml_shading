@@ -3,7 +3,7 @@
 //  cg-kadai2
 //
 //  Created by bussealle on 2015/10/16.
-//  Copyright (c) 2015年 Ryuhei. All rights reserved.
+//  Copyright (c) 2015年 bussealle. All rights reserved.
 //
 
 
